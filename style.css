@@ -82,7 +82,7 @@ h4 {
 			font-weight: 600;
 			font-size: 2em;
 			text-align: center;
-			text-decoration: underline;
+			text-decoration: none;
 			padding: 4px;
 			font-family: 'Poppins', sans-serif;
 }
@@ -107,7 +107,7 @@ h4 {
     color: rgb(85, 26, 139);
 		font-size: 1.3em;
     text-align:center;
-    text-decoration-line: underline;
+    text-decoration-line: none;
     padding: 4px;
     font-family: 'Poppins', sans-serif;
 }
