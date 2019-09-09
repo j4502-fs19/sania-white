@@ -1,4 +1,10 @@
 /*styles go here*/
+
+/*p {
+    color: red;
+}*/
+
+
 body{
 	background-image: url(https://thegalwayreview.files.wordpress.com/2013/02/website-background-wincustomize-explore-clouds-284048.jpg);
 	background-size: 100%;
@@ -8,7 +14,6 @@ body{
 p {
 	color: white;
     font-family: 'Poppins', sans-serif;
-		font-style: bold;
 		font-weight: 600;
 		font-size: 1.9em;
 }
@@ -33,7 +38,6 @@ h3 {
 h4 {
 	color: rgb(85, 26, 139);
 		font-family: 'Poppins', sans-serif;
-		font-style: bold;
 		font-weight: 600;
 		font-size: 2em;
 		text-align: center;
@@ -75,7 +79,6 @@ h4 {
 #toe a:link, #nav a:visited {
 			display:inline;
 			color: white;
-			font-style: bold;
 			font-weight: 600;
 			font-size: 2em;
 			text-align: center;
