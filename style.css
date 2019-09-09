@@ -36,7 +36,7 @@ h3 {
 }
 
 h4 {
-	color: white;
+	color: rgb(85, 26, 139);
 		font-family: 'Poppins', sans-serif;
 		font-style: bold;
 		font-weight: 600;
@@ -90,7 +90,7 @@ h4 {
 }
 
 #toe a:hover, #toe a:active {
-    background-color: #03dbfc;
+    background-color: #0390fc;
 }
 
 #nav2 {
@@ -115,33 +115,28 @@ h4 {
 }
 
 #nav2 a:hover, #nav2 a:active {
-    background-color: #03dbfc;
+    background-color: #0390fc;
 }
 
 #nonav {
 	    padding: 0;
 		  list-style-type: none;
-			text-decoration: none;
-			text-decoration-line: none;
 }
 
 #nonav li {
-    margin: 0;
-    padding: 0;
-	  border-bottom: 1px;
-		text-decoration: none;
-		display: inline;
-    color: #ffffff;
-		font-size: 1.3em;
-    text-align:center;
-    padding: 4px;
-    font-family: 'Poppins', sans-serif;
+	display:inline;
+	color: rgb(85, 26, 139);
+	font-size: 1.3em;
+	text-align:center;
+	text-decoration-line: none;
+	padding: 4px;
+	font-family: 'Poppins', sans-serif;
 }
 
 #footer {
     color: black;
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 0.8em;
+    font-size: 0.6em;
     border-top: 1px solid black;
 }
 
