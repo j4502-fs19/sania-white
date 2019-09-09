@@ -1,0 +1,150 @@
+/*styles go here*/
+
+/*p {
+    color: red;
+}*/
+
+body{
+	background-image: url(https://thegalwayreview.files.wordpress.com/2013/02/website-background-wincustomize-explore-clouds-284048.jpg);
+	background-size: 100%;
+	background-color: #adeef7;
+}
+
+p {
+	color: white;
+    font-family: 'Poppins', sans-serif;
+		font-style: bold;
+		font-weight: 600;
+		font-size: 1.9em;
+}
+
+h1 {
+		color: #149dff;
+		font-family: 'Lobster Two', cursive;
+		font-weight: 700;
+		font-style: italic;
+		font-size: 3.2em;
+		text-align: center;
+}
+
+h3 {
+	color: #149dff;
+	font-family: 'Noto Serif JP', serif;
+	font-weight: 900;
+	font-size: 1.95em;
+	text-decoration-line: underline;
+}
+
+h4 {
+	color: white;
+		font-family: 'Poppins', sans-serif;
+		font-style: bold;
+		font-weight: 600;
+		font-size: 2em;
+		text-align: center;
+}
+
+#container{
+    width: 95%;
+    margin: 0 auto;
+		text-align: center;
+}
+
+#nav {
+    padding: 0;
+	  list-style-type: none;
+}
+
+#nav li {
+    margin: 0;
+    padding: 0;
+	  border-bottom: 1px solid #ccc;
+}
+
+#nav a:link, #nav a:visited {
+	  display:block;
+    color: #ffffff;
+    background-color: #0390fc;
+    font-weight: bold;
+		font-size: 1.5em;
+    text-align:center;
+    text-decoration: none;
+    padding: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#nav a:hover, #nav a:active {
+    background-color: #03dbfc;
+}
+
+#toe a:link, #nav a:visited {
+			display:inline;
+			color: white;
+			font-style: bold;
+			font-weight: 600;
+			font-size: 2em;
+			text-align: center;
+			text-decoration: none;
+			padding: 4px;
+			font-family: 'Poppins', sans-serif;
+}
+
+#toe a:hover, #toe a:active {
+    background-color: #03dbfc;
+}
+
+#nav2 {
+    padding: 0;
+	  list-style-type: none;
+}
+
+#nav2 li {
+    margin: 0;
+    padding: 0;
+	  border-bottom: 1px;
+}
+
+#nav2 a:link, #nav2 a:visited {
+	  display:inline;
+    color: rgb(85, 26, 139);
+		font-size: 1.3em;
+    text-align:center;
+    text-decoration-line: none;
+    padding: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#nav2 a:hover, #nav2 a:active {
+    background-color: #03dbfc;
+}
+
+#nonav {
+	    padding: 0;
+		  list-style-type: none;
+			text-decoration: none;
+			text-decoration-line: none;
+}
+
+#nonav li {
+    margin: 0;
+    padding: 0;
+	  border-bottom: 1px;
+		text-decoration: none;
+		display: inline;
+    color: #ffffff;
+		font-size: 1.3em;
+    text-align:center;
+    padding: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#footer {
+    color: black;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.8em;
+    border-top: 1px solid black;
+}
+
+img {
+	border: none;
+}
