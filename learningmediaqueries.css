@@ -141,22 +141,3 @@ h4 {
 img {
 	border: none;
 }
-
-/*media Inquiries*/
-
-#nav{
-	display: flex;
-	flex-direction: column;
-}
-
-.container {
-	display: flex;
-	flex-direction: column;
-}
-
-@media (min-width: 599px) {
-	#nav {
-		flex-direction: row;
-		justify-content: space-around;
-	}
-}
